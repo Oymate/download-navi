@@ -3,7 +3,7 @@
 [![Chat - Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/DownloadNavi)
 [<img alt="Coverity Scan Build Status" src="https://scan.coverity.com/projects/20752/badge.svg">](https://scan.coverity.com/projects/download-navi)
 
-Download Navi
+Download Navi (Backup)
 =====================
 
 ![Download Navi](fastlane/metadata/android/en-US/images/featureGraphic.png)
